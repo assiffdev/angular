@@ -1,2 +1,2 @@
-# angular
-angular 2+ project
+# Angular7 App Demo
+
